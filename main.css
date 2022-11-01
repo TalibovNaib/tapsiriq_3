@@ -1,0 +1,12 @@
+#header{
+    background-color: rgb(240, 255, 255);
+    border: 2px solid rgb(2, 80, 80);
+    margin: 0px 50px;
+    min-height: 40px;
+    letter-spacing: 2px;
+    margin-bottom: auto;
+}
+ul li {
+    list-style: none;
+    display: inline;    
+}
